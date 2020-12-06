@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff61d724-17c0-43a7-9458-4c1b3c79e95e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/chat-golang-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Godeps/Godeps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Godeps/Readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/components/Message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/styles/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/styles/Message.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conn_hub.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client_clone.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client_clone_legacy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/compression.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn_read.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn_read_legacy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/prepared.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/util.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket.go" beforeDir="false" afterPath="$PROJECT_DIR$/websocket.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/lib/go-1.15" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lEpWG0UB3nbA9TA6mY49Um2icN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mask codes add" />
+    <option name="LAST_COMMIT_MESSAGE" value="mask codes add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1392" height="227" key="GridCell.Tab.0.bottom" timestamp="1607210433756">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state width="1392" height="227" key="GridCell.Tab.0.bottom/0.30.1920.1050/1920.0.1440.900@1920.0.1440.900" timestamp="1607210433756" />
+    <state width="1392" height="227" key="GridCell.Tab.0.center" timestamp="1607210433756">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state width="1392" height="227" key="GridCell.Tab.0.center/0.30.1920.1050/1920.0.1440.900@1920.0.1440.900" timestamp="1607210433756" />
+    <state width="1392" height="227" key="GridCell.Tab.0.left" timestamp="1607210433755">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state width="1392" height="227" key="GridCell.Tab.0.left/0.30.1920.1050/1920.0.1440.900@1920.0.1440.900" timestamp="1607210433755" />
+    <state width="1392" height="227" key="GridCell.Tab.0.right" timestamp="1607210433756">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state width="1392" height="227" key="GridCell.Tab.0.right/0.30.1920.1050/1920.0.1440.900@1920.0.1440.900" timestamp="1607210433756" />
+  </component>
+</project>

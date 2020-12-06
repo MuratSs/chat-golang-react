@@ -1,10 +1,10 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"net/http"
 	"time"
-	"encoding/json"
 
 	"github.com/gorilla/websocket"
 )
@@ -21,21 +21,21 @@ const (
 )
 
 var upgrader = websocket.Upgrader{
-	ReadBufferSize: 1024,
+	ReadBufferSize:  1024,
 	WriteBufferSize: 1024,
 	// needed to allow connections from any origin for :3000 -> :8081
 	CheckOrigin: func(r *http.Request) bool { return true },
 }
 
 type JsonData struct {
-	Name string `json:"name"`
-	Text string `json:"text"`
+	Name      string `json:"name"`
+	Text      string `json:"text"`
 	Timestamp string `json:"timestamp"`
 }
 
 type Client struct {
 	name string
-	hub *ConnHub
+	hub  *ConnHub
 	conn *websocket.Conn
 	send chan []byte
 }
@@ -124,14 +124,14 @@ func wsHandler(hub *ConnHub, w http.ResponseWriter, r *http.Request) {
 	name := r.URL.Query().Get("name")
 	client := &Client{
 		name: name, // sent in http query params
-		hub: hub,
+		hub:  hub,
 		conn: conn,
 		send: make(chan []byte, 256),
 	}
 	client.hub.register <- client
 
 	// construct JSON list of connected client names and send to new client for display
-	names := make([]string, len(client.hub.clients) + 1)
+	names := make([]string, len(client.hub.clients)+1)
 	i := 0
 	for k := range client.hub.clients {
 		names[i] = client.hub.clients[k]

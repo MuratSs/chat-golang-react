@@ -23,8 +23,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/chat-golang-react.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Godeps/Godeps.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Godeps/Readme" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
@@ -44,27 +42,14 @@
       <change afterPath="$PROJECT_DIR$/app/src/registerServiceWorker.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/styles/Login.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/styles/Message.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conn_hub.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/.travis.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/AUTHORS" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client_clone.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client_clone_legacy.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/compression.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn_read.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn_read_legacy.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/doc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/json.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/prepared.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/util.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/websocket.go" beforeDir="false" afterPath="$PROJECT_DIR$/websocket.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,9 +75,11 @@
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -110,10 +97,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mask codes add" />
-    <option name="LAST_COMMIT_MESSAGE" value="mask codes add" />
+    <MESSAGE value="back develop" />
+    <option name="LAST_COMMIT_MESSAGE" value="back develop" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1392" height="227" key="GridCell.Tab.0.bottom" timestamp="1607210433756">
